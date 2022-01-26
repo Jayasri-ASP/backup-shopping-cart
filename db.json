@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "name": "item3",
+      "id": 3
+    },
+    {
+      "name": "item4",
+      "id": 4
+    },
+    {
+      "name": "item5",
+      "id": 5
+    },
+    {
+      "name": "item6",
+      "id": 6
+    }
+  ],
+  "users": [{
+    "username": "test1",
+    "password": "test123"
+  },
+  {
+    "username": "test2",
+    "password": "test123"
+  },
+  {
+    "username": "test3",
+    "password": "test123"
+  }]
+}
